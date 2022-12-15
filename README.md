@@ -33,10 +33,10 @@ Please see the relevant sub-menus for more information.
              
 Filtering Records with Wildcards:
 ---------------------------------
-This system supports the use of the SQLite '%' and '_' wildcards. 
+This system supports the use of the SQLite '%' and ' _ ' wildcards. 
 '%' represents any number of numbers/characters. For example, applying the filter: 
 'Jo%n' would show any text starting with 'Jo' and ending in 'n'.
-'_' represents any single number/character. For example, applying the filter: 'J_n' 
+' _ ' represents any single number/character. For example, applying the filter: 'J_n' 
 would show all three letter records starting with 'J' and ending in 'n'.
              
 Filtering Records with Comparison Operators:
