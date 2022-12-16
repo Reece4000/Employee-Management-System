@@ -6,6 +6,8 @@ The system was built with Tkinter and utilises an SQLite database for the storag
 The system allows users to create or delete tables, and connect to existing tables, by specifying 
 the relevant option from the File menu.
 
+![image](https://user-images.githubusercontent.com/83663539/207992016-a6554451-1032-4b26-8754-b22de079ed6f.png)
+
 
 Adding Records:
 ---------------
