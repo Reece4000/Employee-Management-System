@@ -46,7 +46,7 @@ Filtering Records with Comparison Operators:
 This system supports the use of comparison operators on both TEXT and INTEGER fields.
 If used on text fields, comparison operators will filter records based on their 
 alphabetical order. For example, '>Mr' will return all records which follow 'Mr' 
-alphabetically, including 'Mrs'. \n\nOn number fields, comparison operators filter 
+alphabetically, including 'Mrs'. On number fields, comparison operators filter 
 records based on their numerical value; i.e., >21 will filter on fields which 
 are greater than 21.
               
